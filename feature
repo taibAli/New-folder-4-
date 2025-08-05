@@ -1,1 +1,1 @@
-confict 2
+confict 1
